@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkMageAPI", "DarkMageAPI\DarkMageAPI.csproj", "{614C8C28-8C5A-4C87-94BB-0463A0D80151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{614C8C28-8C5A-4C87-94BB-0463A0D80151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614C8C28-8C5A-4C87-94BB-0463A0D80151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614C8C28-8C5A-4C87-94BB-0463A0D80151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614C8C28-8C5A-4C87-94BB-0463A0D80151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
